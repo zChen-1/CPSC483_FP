@@ -1,5 +1,5 @@
 # CPSC483_FP
-# CNN part
+## CNN part
 
-# pip install --upgrade pip
-# pip install tensorflow scikit-learn pandas
+## pip install --upgrade pip
+## pip install tensorflow scikit-learn pandas
