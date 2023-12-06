@@ -9,6 +9,9 @@
 
 * https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
 
-* https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+
+* https://blog.csdn.net/weixin_46277779/article/details/125554508
+
 
 
